@@ -1,0 +1,31 @@
+.Prinsipal{
+	background-color: #529ABB;
+	text-align: center;
+	color: white;
+}
+.about{
+	text-align: center;
+}
+.about2{
+	text-align: center;
+}
+.gris{
+	background-color: #F8F8F8;
+	text-align: center;
+	color: black;
+}
+.boton1{
+	background-color: #3A85C6;
+	border: none;
+	color: white;
+	padding: 2px 2px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	margin: 1px 1px;
+	cursor: pointer;
+}
+.Texto{
+	color: white;
+}
